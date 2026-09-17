@@ -8,8 +8,8 @@ Web試着ウィジェットの**ビルド済みバンドルのみ**を配信す�
 ECサイトの任意の場所に、次の1行を入れるだけで動きます。ホスト側のHTML改変は不要です。
 
 ```html
-<script src="https://umedahiro1-hash.github.io/web-vto-widget-dist/v0.1.0/vto-widget.js"
-        integrity="sha384-KJJsiyMXoQxR3uSxJQCYC4/OTOT78qzJ+wagow0w2B9W7g+fAFaYMSgwIyhWjiO3"
+<script src="https://umedahiro1-hash.github.io/web-vto-widget-dist/v0.2.0/vto-widget.js"
+        integrity="sha384-rFvb7y1EOyH4vtGNzQERQaiOd5ljXuwjAlpNjOEvz1NokmPnJ90QwBtUeWpJU9Sw"
         crossorigin="anonymous" defer></script>
 ```
 
@@ -32,4 +32,5 @@ ECサイトの任意の場所に、次の1行を入れるだけで動きます�
 
 | バージョン | SRI |
 |---|---|
+| v0.2.0 | `sha384-rFvb7y1EOyH4vtGNzQERQaiOd5ljXuwjAlpNjOEvz1NokmPnJ90QwBtUeWpJU9Sw` |
 | v0.1.0 | `sha384-KJJsiyMXoQxR3uSxJQCYC4/OTOT78qzJ+wagow0w2B9W7g+fAFaYMSgwIyhWjiO3` |
